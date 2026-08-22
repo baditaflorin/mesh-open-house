@@ -1,0 +1,7 @@
+{
+  "$schema": "https://baditaflorin.github.io/mesh-common/mesh-service.schema.json",
+  "id": "mesh-open-house",
+  "category": "Community",
+  "subcategory": "Events & volunteering",
+  "useCases": ["events", "rsvp", "hosting"]
+}
